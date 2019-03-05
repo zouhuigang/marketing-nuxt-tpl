@@ -1,7 +1,8 @@
 {
   "name": "marketing-nuxt-tpl",
   "scripts": {
-    "dev": "nuxt"
+    "dev": "nuxt",
+    "build": "nuxt build"
   },
   "dependencies": {
     "axios": "^0.18.0",

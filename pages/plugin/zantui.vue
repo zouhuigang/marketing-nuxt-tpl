@@ -64,6 +64,10 @@
                     }
                 ]
             }
+        },
+        head: {
+            title: 'zant ui page',
+            meta: [{ hid: 'description', name: 'description', content: 'zant ui description' }]
         }
     }
 </script>
