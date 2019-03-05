@@ -1,0 +1,9 @@
+{
+  "name": "marketing-nuxt-tpl",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "nuxt": "^2.4.5"
+  }
+}
