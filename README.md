@@ -54,3 +54,16 @@
 
 
 注意：Nuxt.js 会监听 pages 目录中的文件更改，因此在添加新页面时无需重新启动应用程序。
+
+
+
+
+### 使用插件
+
+	npm install --save axios
+
+
+##### zantui
+
+	
+	npm install zantui
